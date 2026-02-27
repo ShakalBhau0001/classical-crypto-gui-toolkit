@@ -59,3 +59,15 @@ classical-crypto-gui-toolkit/
 ├── LICENSE
 └── README.md
 ```
+
+---
+
+## 🖥️ 🔄 Also Available as a CLI Tool
+
+Prefer terminal-based workflows or scripting?
+
+👉 **Classical-Crypto-CLI-Toolkit** is the command-line version of this project, designed for developers and power users.
+
+> 🔗 CLI Repository: **[Classical-Crypto-CLI-Toolkit](https://github.com/ShakalBhau0001/classical-crypto-cli-toolkit)**
+
+---
