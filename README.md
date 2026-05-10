@@ -178,3 +178,11 @@ It uses classical ciphers and is **not suitable for modern secure communication*
 ---
 
 > “Classical ciphers teach discipline before modern encryption.”
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
+
+---
