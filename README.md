@@ -169,6 +169,62 @@ It uses classical ciphers and is **not suitable for modern secure communication*
 
 ---
 
+## 📸 Preview
+
+### A. Cipher Panel
+
+![Rich CLI Preview](assets/Cipher.png)
+
+### 1. Caesar Encryption
+
+![Rich CLI Preview](assets/Caesar-Encrypt.png)
+
+### 2. Caesar Decryption
+
+![Rich CLI Preview](assets/Caesar-Decrypt.png)
+
+### 3. Rail_Fence Encryption
+
+![Rich CLI Preview](assets/RailFence-Encrypt.png)
+
+### 4. Rail_Fence Decryption
+
+![Rich CLI Preview](assets/RailFence-Decrypt.png)
+
+### 5. Playfair Encryption
+
+![Rich CLI Preview](assets/Playfair-Encrypt.png)
+
+### 6. Playfair Decryption
+
+![Rich CLI Preview](assets/Playfair-Decrypt.png)
+
+### 7. Row_Column Encryption
+
+![Rich CLI Preview](assets/RowColumn-Encrypt.png)
+
+### 8. Row_Column Decryption
+
+![Rich CLI Preview](assets/RowColumn-Decrypt.png)
+
+### B. Attack Panel
+
+![Rich CLI Preview](assets/Attack.png)
+
+### 1. Caesar Brute Force
+
+![Rich CLI Preview](assets/Ceaser-Brute.png)
+
+### 2. Rail_Fence Brute Force
+
+![Rich CLI Preview](assets/RailFence-Brute.png)
+
+### C. About Panel
+
+![Rich CLI Preview](assets/About.png)
+
+---
+
 ## 🪪 Author
 
 > Developer: **Shakal Bhau**
